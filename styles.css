@@ -1,0 +1,11 @@
+@keyframes anim {
+    0% {background-color: red;}
+    25% {background-color: white;}
+    75% {background-color: blue;}
+    100% {background-color: red;}
+}
+
+body {
+    animation: anim 2s none;
+    animation-iteration-count: infinite;
+}
