@@ -1,3 +1,1 @@
-const Hello = hello.json
-
-console.log(World)
+console.log("Hello world!")
